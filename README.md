@@ -139,14 +139,6 @@ This repository is currently organized around the original **Visual Studio solut
 
 Because this repository preserves the original course-project layout, keeping the folder structure unchanged is recommended.
 
-## Related Documentation
-
-If included in `Docs/`, the final course / semester report can be used as an additional summary of:
-- the MOOC progression
-- homework scope
-- implemented rendering features
-- final results and reflections
-
 ## What this project demonstrates
 
 For a graphics / rendering engineer role, this project demonstrates:
@@ -155,3 +147,10 @@ For a graphics / rendering engineer role, this project demonstrates:
 - ability to implement and compare different sampling strategies
 - practical knowledge of variance reduction techniques such as **NEE**, **Russian Roulette**, and **MIS**
 - experience turning rendering theory into working code and measurable visual results
+
+---
+
+## Contact
+
+- GitHub: https://github.com/whlee503
+- Email: whlee503@ajou.ac.kr
