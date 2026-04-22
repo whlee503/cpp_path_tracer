@@ -6,6 +6,10 @@ This repository is kept close to the original Visual Studio project layout so th
 
 ## Highlights
 
+<p align="center">
+  <img src="Docs/cornellMIS.png" width="40%" alt="MIs cornell img">
+</p>
+
 - Built a C++ offline renderer from scratch as a progressive rendering project
 - Implemented recursive ray tracing foundations and scene intersection logic
 - Added **uniform-grid acceleration** for faster ray traversal in more complex scenes
@@ -107,6 +111,14 @@ The `Docs/` folder contains representative images from different stages of the p
 - `cornellNEE.png`
 - `cornellRR.png`
 - `dragon.png`
+<p align="center">
+  <img src="Docs/scene6.png" width="30%" alt="whitted raytraced">
+  <img src="Docs/cornellRR.png" width="24%" alt="RR cornell img">
+  <img src="Docs/dragon.png" width="30%" alt="path traced dragon">
+</p>
+<p align="center">
+  <img src="Docs/cornellMIS.png" width="40%" alt="MIS cornell img">
+</p>
 
 These images show the progression from simpler sampling strategies toward the final MIS-based renderer with visibly reduced variance.
 
