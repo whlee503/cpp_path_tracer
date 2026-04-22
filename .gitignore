@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+
+# Build outputs
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# Archives / packaged files
+*.zip
+*.7z
+*.rar
+
+# Logs / temp
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
