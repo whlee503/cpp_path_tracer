@@ -7,7 +7,7 @@ This repository is kept close to the original Visual Studio project layout so th
 ## Highlights
 
 <p align="center">
-  <img src="Docs/cornellMIS.png" width="40%" alt="MIs cornell img">
+  <img src="Docs/cornellMIS.png" width="35%" alt="MIs cornell img">
 </p>
 
 - Built a C++ offline renderer from scratch as a progressive rendering project
